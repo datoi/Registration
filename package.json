@@ -1,6 +1,6 @@
 {
   "name": "registration",
-  "homepage": "http://{datoi}.github.io/{Registration}",
+  "homepage": "http://datoi.github.io/Registration",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
